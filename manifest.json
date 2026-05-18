@@ -1,6 +1,6 @@
 {
-    "name": "veloxapp",
-    "short_name": "veloxapp",
+    "name": "VeloX",
+    "short_name": "VeloX",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
